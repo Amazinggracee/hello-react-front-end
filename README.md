@@ -114,8 +114,6 @@ To run tests, run the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👨‍💻  **Amarachi Dimkpa**
 
 - GitHub: [@amazinggacee](https://github.com/Amazinggracee)
@@ -128,8 +126,6 @@ To run tests, run the following command:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] Api Documentation and customization
 
